@@ -1,0 +1,43 @@
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.exe
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.deps.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.runtimeconfig.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.AssemblyInfoInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.AssemblyInfo.cs
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.csproj.CoreCompileInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\refint\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.genruntimeconfig.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura\ProyectoEstructura\obj\Debug\net8.0\ref\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.exe
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.deps.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.runtimeconfig.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.AssemblyInfoInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.AssemblyInfo.cs
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.csproj.CoreCompileInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\refint\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.genruntimeconfig.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1\ProyectoEstructura - copia\ProyectoEstructura\obj\Debug\net8.0\ref\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.exe
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.deps.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.runtimeconfig.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\bin\Debug\net8.0\ProyectoEstructura.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.AssemblyInfoInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.AssemblyInfo.cs
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.csproj.CoreCompileInputs.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.sourcelink.json
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\refint\ProyectoEstructura.dll
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.pdb
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ProyectoEstructura.genruntimeconfig.cache
+C:\Users\frany\Desktop\ESTRUCTURA\Proyecto1Estructura\ProyectoEstructura\obj\Debug\net8.0\ref\ProyectoEstructura.dll
